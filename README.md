@@ -4,7 +4,7 @@
   🎓 Studente di Informatica presso l'Università degli Studi di Salerno  
   <br/><br/>
   <a href="https://www.linkedin.com/in/giuseppe-gambardella-0b9aa3333/">
-
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 ---
