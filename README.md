@@ -2,14 +2,13 @@
 
 <p align="left">
   🎓 Studente di Informatica presso l'Università degli Studi di Salerno  
-  <br/><br/>
-  <p align="center">
+  <br/>
+  <p align="left">
   <a href="https://www.linkedin.com/in/giuseppe-gambardella-0b9aa3333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 </p>
----
 
 ![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiuseppeGambardella&show_icons=true&count_private=true&theme=tokyonight)
 
