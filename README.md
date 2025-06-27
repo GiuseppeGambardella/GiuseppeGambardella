@@ -1,3 +1,13 @@
+<h2 align="center">Ciao! 👋 Sono Giuseppe Gambardella</h2>
+
+<p align="center">
+  🎓 Studente di Informatica presso l'Università degli Studi di Salerno  
+  <br/>
+  🔗 <a href="https://www.linkedin.com/in/giuseppegambardella/">LinkedIn</a>
+</p>
+
+---
+
 ![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiuseppeGambardella&show_icons=true&count_private=true&theme=tokyonight)
 
 ## 📊 Linguaggi che ho usato nei progetti
@@ -25,28 +35,28 @@ Distribuzione percentuale delle righe di codice **scritta personalmente** nei re
 
 </div>
 
+---
 
+## 📚 Progetti universitari
 
+Ecco alcuni progetti sviluppati in team durante il mio percorso accademico:
+
+- 🎓 [**Symposium**](https://github.com/FaiellaFrancesco/Symposium)  
+  *Corso: Tecnologie Software Web*  
+  Piattaforma e-commerce per la vendita online di vini, sviluppata in **Java**. Il sistema include funzionalità per la catalogazione dei prodotti, gestione del carrello, autenticazione e gestione account utente.
+
+- 🤖 [**SGARB-AI**](https://github.com/Marco-Brescia/SGARB-AI)  
+  *Corso: Fondamenti di Intelligenza Artificiale*  
+  Sistema di classificazione basato su tecniche di **deep learning**, progettato per distinguere tra opere d’arte reali e immagini generate dall'intelligenza artificiale.
+
+- 🏛️ [**CiviConnect**](https://github.com/benedettoscala/CiviConnect)  
+  *Corso: Ingegneria del Software*  
+  Applicazione web pensata per favorire la comunicazione tra cittadini e pubbliche amministrazioni. Permette la segnalazione di problemi urbani, la gestione delle risposte da parte dei comuni e il tracciamento dello stato delle richieste.
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GiuseppeGambardella&theme=tokyonight)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GiuseppeGambardella&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Snake](https://raw.githubusercontent.com/GiuseppeGambardella/GiuseppeGambardella/main/dist/github-contribution-grid-snake-dark.svg)
-
-
-
-<!--
-**GiuseppeGambardella/GiuseppeGambardella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
