@@ -1,6 +1,10 @@
 ![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiuseppeGambardella&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Giuseppe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiuseppeGambardella)](https://github.com/anuraghazra/github-readme-stats)
+![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GiuseppeGambardella&theme=tokyonight)](https://git.io/streak-stats)
 
