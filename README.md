@@ -1,4 +1,8 @@
-## Hi there 👋
+![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiuseppeGambardella&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeGambardella&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GiuseppeGambardella&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **GiuseppeGambardella/GiuseppeGambardella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
