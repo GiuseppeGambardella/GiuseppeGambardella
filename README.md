@@ -4,7 +4,7 @@
 
 Distribuzione percentuale delle righe di codice **scritta personalmente** nei repository:
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/Java-34.7%25-%231E90FF?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-14.8%25-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
