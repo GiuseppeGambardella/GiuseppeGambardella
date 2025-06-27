@@ -1,6 +1,6 @@
 ![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiuseppeGambardella&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeGambardella&layout=compact&theme=tokyonight)
+[![Giuseppe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiuseppeGambardella)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GiuseppeGambardella&theme=tokyonight)](https://git.io/streak-stats)
 
