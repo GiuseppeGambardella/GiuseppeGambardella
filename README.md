@@ -6,7 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GiuseppeGambardella&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Snake](https://github.com/GiuseppeGambardella/GiuseppeGambardella/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/GiuseppeGambardella/GiuseppeGambardella/main/dist/github-contribution-grid-snake-dark.svg)
+
 
 
 <!--
