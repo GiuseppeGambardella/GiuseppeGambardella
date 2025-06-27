@@ -1,10 +1,20 @@
 ![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiuseppeGambardella&show_icons=true&count_private=true&theme=tokyonight)
 
-![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white)
+## 📊 Linguaggi che ho usato nei progetti
+
+Distribuzione percentuale delle righe di codice **scritta personalmente** nei repository:
+
+- ![Java](https://img.shields.io/badge/Java-34.7%25-informational?style=flat&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-14.8%25-informational?style=flat&logo=javascript&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-14.8%25-informational?style=flat&logo=dart&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-14.4%25-informational?style=flat&logo=css3&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-13.5%25-informational?style=flat&logo=python&logoColor=white)
+- ![YAML](https://img.shields.io/badge/YAML-5.8%25-informational?style=flat&logo=yaml&logoColor=white)
+- ![Shell](https://img.shields.io/badge/Shell-1.0%25-informational?style=flat&logo=gnu-bash&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-0.6%25-informational?style=flat&logo=mysql&logoColor=white)
+- ![Batch](https://img.shields.io/badge/Batch-0.4%25-informational?style=flat&logo=windows&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-0.2%25-informational?style=flat&logo=html5&logoColor=white)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GiuseppeGambardella&theme=tokyonight)](https://git.io/streak-stats)
 
