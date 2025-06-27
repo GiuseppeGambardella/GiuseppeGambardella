@@ -12,7 +12,7 @@
 
 ## 📊 Linguaggi che ho usato nei progetti
 
-Distribuzione percentuale delle righe di codice **scritta personalmente** nei repository:
+Distribuzione percentuale delle righe di codice **scritte personalmente** nei repository:
 
 <div align="left">
 
