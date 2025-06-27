@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Studente di Informatica presso l'Università degli Studi di Salerno  
   <br/>
-  🔗 <a href="https://www.linkedin.com/in/giuseppegambardella/">LinkedIn</a>
+  🔗 <a href="https://www.linkedin.com/in/giuseppe-gambardella-0b9aa3333/">LinkedIn</a>
 </p>
 
 ---
