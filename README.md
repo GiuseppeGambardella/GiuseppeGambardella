@@ -6,7 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GiuseppeGambardella&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![snake gif](https://github.com/giuseppeUSERNAME/GiuseppeGambardella/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/GiuseppeGambardella/GiuseppeGambardella/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **GiuseppeGambardella/GiuseppeGambardella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
