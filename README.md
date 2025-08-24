@@ -50,10 +50,6 @@ Ecco alcuni progetti sviluppati in team durante il mio percorso accademico:
   *Progetto di tirocinio universitario*  
   Assistente virtuale basato su **Large Language Models**, sviluppato per supportare l’apprendimento personalizzato. Gestisce interazioni voce-voce in streaming e mantiene memoria delle domande pregresse per garantire coerenza nelle risposte.
 
-- 🎓 [**Symposium**](https://github.com/FaiellaFrancesco/Symposium)  
-  *Corso: Tecnologie Software Web*  
-  Piattaforma e-commerce per la vendita online di vini, sviluppata in **Java**. Il sistema include funzionalità per la catalogazione dei prodotti, gestione del carrello, autenticazione e gestione account utente.
-
 - 🤖 [**SGARB-AI**](https://github.com/Marco-Brescia/SGARB-AI)  
   *Corso: Fondamenti di Intelligenza Artificiale*  
   Sistema di classificazione basato su tecniche di **deep learning**, progettato per distinguere tra opere d’arte reali e immagini generate dall'intelligenza artificiale.
@@ -61,6 +57,11 @@ Ecco alcuni progetti sviluppati in team durante il mio percorso accademico:
 - 🏛️ [**CiviConnect**](https://github.com/benedettoscala/CiviConnect)  
   *Corso: Ingegneria del Software*  
   Applicazione web pensata per favorire la comunicazione tra cittadini e pubbliche amministrazioni. Permette la segnalazione di problemi urbani, la gestione delle risposte da parte dei comuni e il tracciamento dello stato delle richieste.
+
+- 🎓 [**Symposium**](https://github.com/FaiellaFrancesco/Symposium)  
+  *Corso: Tecnologie Software Web*  
+  Piattaforma e-commerce per la vendita online di vini, sviluppata in **Java**. Il sistema include funzionalità per la catalogazione dei prodotti, gestione del carrello, autenticazione e gestione account utente.
+
 
 ---
 
