@@ -43,6 +43,10 @@ Distribuzione percentuale delle righe di codice **scritte personalmente** nei re
 
 Ecco alcuni progetti sviluppati in team durante il mio percorso accademico:
 
+- 🧑‍🏫 [**E.L.I.A. (Educational Learning Intelligent Assistant)**]([https://github.com/gagiu03/ELIA](https://github.com/GiuseppeGambardella/E.L.I.A.-Educational-Learning-Intelligent-Assistant-))  
+  *Progetto di tirocinio universitario*  
+  Assistente virtuale basato su **Large Language Models**, sviluppato per supportare l’apprendimento personalizzato. Gestisce interazioni voce-voce in streaming e mantiene memoria delle domande pregresse per garantire coerenza nelle risposte.
+
 - 🎓 [**Symposium**](https://github.com/FaiellaFrancesco/Symposium)  
   *Corso: Tecnologie Software Web*  
   Piattaforma e-commerce per la vendita online di vini, sviluppata in **Java**. Il sistema include funzionalità per la catalogazione dei prodotti, gestione del carrello, autenticazione e gestione account utente.
