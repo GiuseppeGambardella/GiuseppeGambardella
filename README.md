@@ -1,7 +1,7 @@
 <h2 align="left">Ciao! 👋 Sono Giuseppe Gambardella</h2>
 
 <p align="left">
-  🎓 Studente di Informatica presso l'Università degli Studi di Salerno  
+  🎓 Studente Magistrale di Informatica presso l'Università degli Studi di Salerno  
   <br/>
   <p align="left">
   <a href="https://www.linkedin.com/in/giuseppe-gambardella-0b9aa3333/" target="_blank">
