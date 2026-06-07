@@ -62,6 +62,4 @@ Ecco alcuni progetti sviluppati in team durante il mio percorso accademico:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GiuseppeGambardella&theme=tokyonight)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GiuseppeGambardella&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub Snake](https://raw.githubusercontent.com/GiuseppeGambardella/GiuseppeGambardella/main/dist/github-contribution-grid-snake-dark.svg)
