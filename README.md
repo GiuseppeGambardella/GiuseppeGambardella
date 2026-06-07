@@ -10,11 +10,6 @@
 </p>
 </p>
 
-![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiuseppeGambardella&show_icons=true&count_private=true&theme=tokyonight)
-
-![Linguaggi principali](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeGambardella&layout=compact&theme=tokyonight)
-
-
 ## 📊 Linguaggi che ho usato nei progetti
 
 Distribuzione percentuale delle righe di codice **scritte personalmente** nei repository:
